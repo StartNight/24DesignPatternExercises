@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式", "命令模式.csproj", "{7CC146F6-38DD-4FEC-82F4-D2533F885F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CC146F6-38DD-4FEC-82F4-D2533F885F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC146F6-38DD-4FEC-82F4-D2533F885F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC146F6-38DD-4FEC-82F4-D2533F885F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC146F6-38DD-4FEC-82F4-D2533F885F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21AFC2F1-1970-4C42-B798-909BE280A8E4}
+	EndGlobalSection
+EndGlobal
